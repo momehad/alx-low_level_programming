@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * discription: uses printf to output a string
+ * main - uses printf to output a string
  * return: 0 if the code is sucess
  */
 int main(viod)
