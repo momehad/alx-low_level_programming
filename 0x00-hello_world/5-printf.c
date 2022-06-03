@@ -1,10 +1,13 @@
 #include <stdio.h>
+
 /**
- * main - uses printf to output a string
- * return: 0 if the code is sucess
+ * main - Print a string
+ * Description: use printf
+ * Return: 0
  */
-int main(viod)
+
+int main(void)
 {
-    printf("with proper grammar, but the outcome is a piece of art,\n");
-    return (0);
+	printf("%s", "with proper grammar, but the outcome is a piece of art,\n");
+	return (0);
 }
